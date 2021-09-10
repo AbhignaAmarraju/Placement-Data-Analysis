@@ -1,0 +1,70 @@
+S.No.,Name,Roll No.,BE%,C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,Gender,No. of backlogs,No. of placements
+1,Akshitha Nadapally,1.60E+11,63,,Del,,,,,,,,,,,,,,,,,,,,,,Female,0,1
+2,Bhargavi Kotapati,1.60E+11,90.05,,,,,,inf,CTS,ACC,wip,,,,,,Next Edn,,,,Factset,,,,,Female,0,6
+3,Botha Dhanasri,1.60E+11,83.5,,,,,,,,ACC,,,,,,,,,,,,,,,,Female,0,1
+4,Kaumudi Vuppala,1.60E+11,89.28,,,,,,,,,,,,,,JP Morgan,,,,,,,,,,Female,0,1
+5,Krushi Karukala,1.60E+11,83.94,,Del,,,,inf,CTS,ACC,wip,,,,,,,,,,,,,,,Female,0,5
+6,Nikhita Reddy Gade,1.60E+11,88.68,Oracle,,,,,,,,,,,,,,,,,,,,,,,Female,0,1
+7,Ramya Bandaru,1.60E+11,91.8,Oracle,,,,,,,,,,,,,,,,,,,,,,,Female,0,1
+8,Rashmi Kuntala,1.60E+11,80.8,,,,,,inf,,ACC,wip,,,,,,,,,,,,,,,Female,0,3
+9,Reshma Qureshi,1.60E+11,73.28,,,,,,,,,,Capgem,,,,,,,,,,,,,,Female,0,1
+10,Roohi Minaz,1.60E+11,68.37,,,,,,inf,,ACC,,,,,,,,,,,,,,,,Female,0,2
+11,Sai Manogna Pentyala,1.60E+11,89.05,,,,,,,,,,,,,,,,,,,,,,,,Female,0,0
+12,Sai Sindhuja Sheela,1.60E+11,81.77,,Del,,,,,,,,,,,,,,,,,,,,,,Female,0,1
+13,Gosika Sandhya Rani,1.60E+11,86.54,,Del,,,,inf,,ACC,wip,,,,,,Next Edn,,,,,,,,,Female,0,5
+14,Shreya Anantharaman,1.60E+11,77.42,Oracle,,,,,,,,,,,,,,,,,,,,,,,Female,0,1
+15,Shreya Reddy Gouru,1.60E+11,80.4,,Del,,,,inf,,ACC,wip,,Callidus,,,,,,,,,,,,Huawei,Female,0,6
+16,Perumalla Sindhu,1.60E+11,77.42,,,,,,,CTS,,wip,,,,,,,,,,,Inspirage,,,,Female,0,3
+17,Sowmya Bhukya,1.60E+11,72.7,,,,,,,,,,,,,,,,,,,,,,,,Female,0,0
+18,Anusha Veeramachaneni,1.60E+11,84.1,,,,,,inf,CTS,,,,,,,,,,,,,,,,,Female,0,2
+19,R S Sumithra Mounika Yalamarty,1.60E+11,87.8,,,JPMC,,,,,,,,,,,,,,,,,,,Samsung,,Female,0,2
+20,Swathi Patnaikuni,1.60E+11,85.99,,,JPMC,,,,,,,,,,,,,,,,,,,,,Female,0,1
+21,Jakkoju Tejaswini,1.60E+11,76.4,,,,,,inf,,ACC,,,,,,,,,,,,,,,,Female,0,2
+22,Tejaswini Tummu,1.60E+11,88.34,,,,NCR,,,,,,,,,,,,,,,Factset,,,,,Female,0,2
+23,Chalamalasetty Varsha,1.60E+11,89.05,,,,,,,CTS,ACC,,,,,CDK,,,,,,,,,Samsung,,Female,0,4
+24,Vijayalaxmi Boddu,1.60E+11,78.48,,,,,,,CTS,,,,,,,,,,,,,,,,,Female,0,1
+25,Vyshnavi Nandam,1.60E+11,81.28,,,,,,inf,CTS,ACC,wip,,,,,,,,riktam,,,,Oracle,,,Female,0,6
+26,Chitra Naidu Yerra,1.60E+11,72,,,,,,,,ACC,,,,,,,,,,,,,,,,Female,0,1
+27,Kanza Manas Noor,1.60E+11,66.14,,,,,,,,ACC,,,,,,,,,,,,,,,,Female,1,1
+28,Aatif Omair,1.60E+11,67.2,,,,,,,CTS, ,,,,,,,,,,,,,,,,Male,0,2
+29,Anirudh Kulkarni,1.60E+11,87.5,,,,,,,,,,,,Pega Sys,,,,,,,,,,,,Male,-,1
+30,Anurag Reddy Kothinti,1.60E+11,76.37,,Del,,,,inf,,ACC,wip,,,,,,,,,,,,,,,Male,0,4
+31,Bhagath Anukanti,1.60E+11,68.54,,,,,,inf,CTS,ACC,,,,,,,,,,,,,,,,Male,0,3
+32,Yangala Bhaskar Rao,1.60E+11,70.28,,,,,,,,,wip,,,,,,,,,,,,,,,Male,0,1
+33,Charan Makkina,1.60E+11,83,,,,,,,CTS,,wip,,,,,,Next Edn,L&T Metro,,,,,,,Huawei,Male,0,5
+34,Jitendra Kurra,1.60E+11,75.97,,,,,,,,ACC,,,,,,,,,,,,,,,,Male,0,1
+35,Kalyana Sundaram Mukund,1.60E+11,84.34,,,,,,,CTS,ACC,,,Callidus,Pega Sys,,,,,,,,,,,,Male,0,4
+36,Krishnakanth Heda,1.60E+11,87.37,,,,,,,,ACC,,,,,,,,,,,,,,,,Male,0,1
+37,Lalith Rallabhandi,1.60E+11,80.48,,,,,,inf,,,Zomato,,,,,,,,,,,,,,,Male,0,2
+38,Repuri Leela Krishna Prasad,1.60E+11,79.14,,,,,,inf,,ACC,,,,,,,,,,BOA,,,,,,Male,0,3
+39,Lenin Kumar,1.60E+11,58,,,,,,,,,,,,,,,,,,,,,,,,Male,5,0
+40,Lokesh Ambarapu,1.60E+11,72.97,,,,,,,CTS,,wip,,,,,,,,,,,,,,,Male,0,2
+41,Mahesh Kumar Dheravathu,1.60E+11,82.91,,,,,,,,ACC,wip,,,,,,,,,,,,,,,Male,0,2
+42,Naveen Kumar Kannegundla,1.60E+11,75.15,,,,,,inf,CTS,ACC,,,,,,,,,,BOA,,,,,,Male,0,4
+43,Pranay Baheti,1.60E+11,84,,,,,,inf,CTS,ACC,,,,,,JP Morgan,,,,,,,,,,Male,0,4
+44,Anumula Rajesh,1.60E+11,69.2,,,,,,,,,wip,,,,,,,,,,,,,,,Male,0,1
+45,Ram Sarda,1.60E+11,84.14,,,,,,,,,,,,,,,,,,,,,,,,Male,0,0
+46,Sai Balaji Polakampalli,1.60E+11,78.88,,Del,,,Accolite,,,,,,,,,,,,,,,,,,,Male,0,2
+47,Sai Ram Reddy Pulikanti,1.60E+11,90.45,,Del,,,,inf,,,,,,,,,,,,,,,,,,Male,0,2
+48,Sai Krishna.Pashikanti,1.60E+11,60,,,,,,,,,,,,,,,,,,,,,,,,Male,1,0
+49,Santhosh Kumar Kamishetty,1.60E+11,80.05,,,,,,,,,,,,,,,,,,,,,,,,Male,0,0
+50,N Santosh Reddy,1.60E+11,75.68,,Del,,,,,,,,,,,,,,,,,,,,,,Male,0,1
+51,Palli Sree Teja,1.60E+11,80.82,,,,,,inf,CTS,,,,,,,,,,,,,,,,,Male,0,2
+52,Jatoth Srinivas,1.60E+11,72.54,,,,,,,CTS,,wip,,,,,,,,,,,,,,,Male,0,2
+53,Polepalli Srinivasa Dilip,1.60E+11,85.02,Oracle,,,,,,,,,,,,,,,,,,,,,,,Male,0,1
+54,Surya Teja Sharma,1.60E+11,70,,,,NCR,,,,,,,,,,,,,,,,,,,,Male,0,1
+55,Teja Kiran Chunduri,1.60E+11,78.02,,,,,,inf,CTS,ACC,,,,,,,,,,,,,,,,Male,0,3
+56,Tilak Gumray,1.60E+11,84.37,Oracle,,,,,,,,,,,,,,,,,,,,,,,Male,0,1
+57,Yedire Vamshi Krishna,1.60E+11,81.51,,,,,,,,ACC,wip,,,,,,,,,,,,,,,Male,0,2
+58,Golla Vidwan Raj,1.60E+11,87.51,,,JPMC,,,,,,,,,,,,,,,,,,,,,Male,0,1
+59,Binnuri Ravi Teja,1.60E+11,68.17,,Del,,,,,,,,,,,,,,,,,,,,,,Male,0,1
+60,Sania Fatimi,1.60E+11,73.06,,,,,,inf,CTS,,,,,,,,,,,,,,,,,Female,0,2
+61,Mandha Ravi Kumar,1.60E+11,62,,,,,,,,ACC,,,,,,,,,,,,,,,,Male,0,1
+62,Ranga Sneha,1.60E+11,72.21,,,,,,,,ACC,,,,,,,,,,,,,,,,Female,0,1
+63,Kodi Keerthi,1.60E+11,66.59,,,,,,,,,,,,,,,,,,,,,,,,Female,0,0
+64,Omkar Shiva Sai Raju,1.60E+11,49.31,,,,,,,,,,,,,,,,,,,,,,,,Male,2,0
+65,Bhargavi Gattepally,1.60E+11,66.94,,,,,,,,,,,,,,,,,,,,,,,,Female,0,0
+66,Deepak Chari,1.60E+11,65.14,,,,,,,CTS,ACC,wip,,,,,,,,,,,,,,,Male,0,3
+67,Srikanth Kampati,1.60E+11,63.47,,,,,,,,,,,,,,,,,,,,,,,,Male,2,0
+68,Pruthvi Raj Pemmadi,1.60E+11,,,,,,,,,,,,,,,,,,,,,,,,,Male,-,0
+69,Anusha Rani Gollapally,1.60E+11,,,,,,,,,,,,,,,,,,,,,,,,,Female,7,0

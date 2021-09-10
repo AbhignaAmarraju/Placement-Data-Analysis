@@ -1,0 +1,20 @@
+﻿Year,Company,Gender,CGPA,No. of Placements,Branch,Section,Salary
+2010,Morgan Stanley,Female,8.91,4,IT,1,10.5
+2010,Amazon,Female,8.91,4,IT,1,10
+2010,Amazon,Female,8.5,2,CSE,1,10
+2010,Amazon,Female,8.63,2,CSE,2,10
+2010,Microsoft,Male,7.55,2,CSE,1,10
+2010,Microsoft,Male,7.12,2,CSE,2,10
+2010,Microsoft,Male,7.16,2,ECE,1,10
+2010,Google,Male,7.38,3,IT,1,
+2010,Google,Male,,2,IT,1,
+2010,Google,Male,7.9,2,CSE,1,
+2010,Google,Male,7.05,2,CSE,1,
+2020,Microsoft,Male,8.34,2,CSE,1,41
+2020,Microsoft,Female,8.79,2,CSE,3,41
+2020,EA Games,Female,8.89,2,CSE,3,12.2
+2020,EA Games,Male,7,3,CSE,3,12.2
+2020,Salesforce,Female,8.33,2,IT,1,11.9
+2020,Google,Male,7.28,2,CSE,3,10.5
+2020,Google,Male,7.01,2,CSE,3,10.5
+2020,Google,Male,7,3,CSE,3,10.5
