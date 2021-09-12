@@ -62,7 +62,8 @@ Visualising important features
 ![image](https://user-images.githubusercontent.com/59678549/132976459-aa538ae4-327b-4d99-978c-a357b709587d.png)
 ![image](https://user-images.githubusercontent.com/59678549/132976514-c6db0e7b-d0f8-4e10-9b4b-63b2575e0737.png)
 
- A predictive ML model, which can help in predicting the placement chance a student is still being developed by feeding all the visualized data to the model.
+A predictive ML model, which can help in predicting the placement chance a student is still being developed by feeding all the visualized data to the model.
+The Machine Learning model is proposed with algorithms to predict the same. But the problem is to find a suitable classification algorithm that could do the job with maximum accuracy for our data set. Different algorithms have different accuracies depending on the type of problem it has to solve and the data set it has to work with. We are still working on developing the model.
 
 
 
